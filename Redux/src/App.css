@@ -1,0 +1,17 @@
+.list{
+  text-align: center;
+}
+
+body{
+  text-align: center;
+}
+
+button{
+  margin: auto;
+  font-size: 25px;
+  border-radius: 20px 10px;
+  background-color: #a1d345;
+  border: none;
+  padding: 10px;
+  color: rgb(255, 255, 255);
+}
